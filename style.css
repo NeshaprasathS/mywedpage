@@ -1,0 +1,48 @@
+h2{
+       color: rgb(255, 255, 255);
+       padding: 20px;
+}
+
+h5{
+       color: rgb(255, 255, 255);
+       padding-bottom: 20px;
+}
+
+h3{
+       padding: 10px;;
+}
+.banner{
+       background-image: url(./images/banner2.jpg);
+       background-size: cover;
+       padding: 200px 0;
+ 
+}
+
+.btn{
+       padding: 10px;
+       color:rgb(0, 0, 0);
+       background-color:rgb(96, 217, 165) ;
+}
+
+.btn:hover{
+       background-color: blue;
+       color: aliceblue;
+}
+
+p{
+       font-size: large;
+}
+
+img{
+       padding: 20px;
+       padding-left:20px;
+}
+
+.skill{
+       background-color: rgb(251, 234, 197);
+       padding:50px;
+}
+
+.skill-padding{
+       padding:25px 0;
+}
